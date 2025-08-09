@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌌 Graduate Student at UC Davis 
-🦠 I study microbial ecology and morphology using spatial statistics
+🦠 I study microbial ecology and morphology using spatial statistics and computer vision
 📫 E-mail: asking@ucdavis.edu
 
 <!--
